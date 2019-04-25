@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CalculatorService.java&apos; to &apos;WEB-SERVICE-SOAP-JAX-WS-AXIS-2/src/com.webservice.soap.axis2&apos;&#x0D;&#x0A;- Original project: &apos;WEB-SERVICE-SOAP-JAX-RPC-AXIS-1&apos;&#x0D;&#x0A;- Destination element: &apos;WEB-SERVICE-SOAP-JAX-WS-AXIS-2/src/com.webservice.soap.axis2&apos;&#x0D;&#x0A;- Original element: &apos;com.webservice.soap.axis1.CalculatorService.java&apos;" description="Copy compilation unit" destination="=WEB-SERVICE-SOAP-JAX-WS-AXIS-2/src&lt;com.webservice.soap.axis2" element1="/src&lt;com.webservice.soap.axis1{CalculatorService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1556194348294" units="1" version="1.0"/>
+</session>
